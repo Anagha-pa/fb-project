@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+}
+.header{
+    width: 100%;
+    height: 71px;
+    background-color: rgb(88, 88, 227);
+    margin-bottom: 0px;
+}
+body{
+    margin: 0;
+}
+.left{
+    width: 50%;
+    padding-top:10px;
+    float:left;
+}
+.right{
+    width: 50%;
+    float: left;
+}
+.form-right{
+    padding-left: 150px;
+    float: left;
+
+}
+.a-tag{
+    text-decoration: none;
+    color: #fff;
+    font-size: 45px;
+    font-weight: bold;
+    margin-left: 150px;
+}
+.content{
+    color: #fff;
+    size: 18px;
+}
+.login{
+    background-color: rgba(82, 118, 210, 0.858);
+    color: #fff;
+    border: 1px solid #fff;
+    cursor: pointer;
+}
+.login:hover{
+    background: green;
+}
+.mainbody{
+    width: 100%;
+    height: 700px;
+    margin-top: 0px;
+    background: linear-gradient(to bottom, #efebf1 -32%, #ddd6e1 111%);
+    float: left;
+}
+
+.para{
+    color: darkblue;
+    font-size: 25px;
+    font-style: revert;
+    padding-left: 147px;
+    padding-top: 51px;
+    font-weight: bolder;
+    
+}
+.img{
+    width: 500px;
+    padding-left: 148px;
+    padding-top: 23px;
+
+}
+.mainright{
+    
+    margin-left: 800px;
+    margin-top: -276px;
+}
+ .mobilenumber{
+    width: 50%;
+    margin-bottom:19px;
+ }
+ .B{
+    font-size: initial;
+    color: black;
+    font-style: normal;
+ }
+.write{
+    size: small;
+    font-style: normal;
+    color: black;
+}
+.bold{
+    size: small;
+    font-style: normal;
+    color: darkblue;
+}
+.gender{
+    size: adjust 5px;
+    font-style: normal ;
+    color: black;
+}
+.sign{
+    font-size: 20px;
+    background-color:green;
+     color:#fff;
+    block-size: 37px;
+    width: 239px;
+    border: #27c842;
+    border-radius:4mm;
+    
+}
+.foot{
+    width: 100%;
+    height: 71px;
+    background-color: rgb(15, 15, 171);
+    margin-bottom: 0px;
+}
+ 
+
